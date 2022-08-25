@@ -1,7 +1,7 @@
 # flow2-NodeRed
 Este repositorio contiene el segundo ejercicio de NodeRed para el curso Internet de las Cosas de Código IoT
 # Introducción
-El flow 2 representa el segundo ejercicio a realizar con NodeRed. Este ejercicio consiste únicamente en conectar un nodo Inject con un nodo Debug y automatizarlo para que genere un TimeStamp cada 1 segundo. Esta acción permite demostrar el uso de la pestaña Debug.
+El flow 2 representa el segundo ejercicio a realizar con NodeRed. Este ejercicio consiste únicamente en conectar un nodo Inject con un nodo Debug junto a  una función y automatizarlo para que genere un TimeStamp cada 1 segundo. Esta acción permite demostrar el uso de la pestaña Debug.
 # Material Necesario
 Para realizar este flow necesitas lo siguiente
 
