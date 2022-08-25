@@ -43,13 +43,7 @@ Para ejecutar este flow, es necesario lo siguiente
     Importar el flow
     Hacer clic en el boton Deploy
 
-Instrucciones de preparación del entorno
 
-Para ejecutar este flow, es necesario lo siguiente
-
-    Arrancar NodeRed con el comando node-red
-    Importar el flow
-    Hacer clic en el boton Deploy
     
     
 # Resultados
